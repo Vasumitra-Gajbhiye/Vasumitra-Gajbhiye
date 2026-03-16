@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vasumitra 👋
 
-<!--
-**Vasumitra-Gajbhiye/Vasumitra-Gajbhiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **BrillPrep** — an interactive exam practice platform helping students improve through data-driven learning.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BrillPrep** – Interactive exam preparation platform
+- Analytics-driven MCQ solving
+- Learning tools for IGCSE & A-Level students
+
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- MongoDB
+- Redis
+- TypeScript
+- Tailwind CSS
+
+## 🌍 Community
+
+I lead the **r/alevel** learning community where students collaborate and help each other prepare for exams.
+
+## 📫 Links
+
+Website: https://vasumitragajbhiye.com  
+LinkedIn: https://linkedin.com/in/vasumitragajbhiye  
+Reddit: https://www.reddit.com/user/VasumitraGajbhiye
