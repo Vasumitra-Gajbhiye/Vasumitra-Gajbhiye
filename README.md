@@ -13,6 +13,7 @@ Founder of **BrillPrep** — an interactive exam practice platform helping stude
 - Next.js
 - React
 - MongoDB
+- Postgres SQL
 - Redis
 - TypeScript
 - Tailwind CSS
