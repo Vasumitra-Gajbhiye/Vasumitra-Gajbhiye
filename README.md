@@ -10,7 +10,7 @@ Founder of **BrillPrep** — an interactive exam practice platform helping stude
 
 ## 🛠 Tech Stack
 
-- Next.js
+- Next JS
 - React
 - MongoDB
 - Postgres SQL
